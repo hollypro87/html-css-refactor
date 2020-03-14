@@ -4,3 +4,4 @@
 4. Update classes under "Content" section to ids.
 5. Remove float classes from "content" images in html and combine code in css.
 6. Update footer to id instead of class.
+7. Removed redundant img tag from cost management image.

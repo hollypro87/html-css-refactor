@@ -160,16 +160,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+.online-reputation-management,
+.social-media-marketing,
 .search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
     max-height: 200px;
 }
 

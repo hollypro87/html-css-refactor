@@ -6,3 +6,4 @@
 6. Update footer to id instead of class.
 7. Removed redundant img tag from cost management image.
 8. Undo "benefits" changes but update to all one class. Consolidated styles in css for all "benefits" under "benefit-sections" class.
+9. Undo "content" changes but update to 2 separate classes, one for float left and one for float right. Consolidated styles in css for both new classes.
